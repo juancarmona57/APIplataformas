@@ -1,0 +1,1 @@
+{"id":"95e7be50-0a3f-4097-ae5f-765d22746d53","space":48553,"runtime":"python3.9","name":"PLATAFORMS","path":"n3xzky","project":"e016b9uj","account":"144798365827","region":"sa-east-1","deps":["FastAPI","pandas"],"envs":null,"public":true,"log_level":"debug","cron":""}
